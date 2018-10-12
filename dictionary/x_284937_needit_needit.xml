@@ -18,6 +18,7 @@
             </choice>
         </element>
         <element label="When needed" mandatory="true" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
         <element label="Requested for" mandatory="true" max_length="32" name="u_reference_2" reference="sys_user" type="reference"/>
     </element>
 </database>
