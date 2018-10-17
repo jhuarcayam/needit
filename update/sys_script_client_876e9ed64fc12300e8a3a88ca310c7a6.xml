@@ -12,7 +12,7 @@
         <order/>
         <script><![CDATA[function onSubmit() {
    //Type appropriate comment here, and begin script below
-   alert("Enviado")
+   alert("Enviado");
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -20,7 +20,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>876e9ed64fc12300e8a3a88ca310c7a6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Submit</sys_name>
         <sys_overrides/>
         <sys_package display_value="needit" source="x_284937_needit">283182924f812300e8a3a88ca310c709</sys_package>
@@ -28,7 +28,7 @@
         <sys_scope display_value="needit">283182924f812300e8a3a88ca310c709</sys_scope>
         <sys_update_name>sys_script_client_876e9ed64fc12300e8a3a88ca310c7a6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-11 22:58:08</sys_updated_on>
+        <sys_updated_on>2018-10-17 14:59:05</sys_updated_on>
         <table>x_284937_needit_needit</table>
         <type>onSubmit</type>
         <ui_type>0</ui_type>
