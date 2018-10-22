@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_284937_needit_needit" version="3">
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Pending</label>
-            <language>en</language>
-            <name>x_284937_needit_needit</name>
-            <sequence>0</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-11 22:08:31</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>ee33da5e4f812300e8a3a88ca310c7a2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-11 22:08:31</sys_updated_on>
-            <value>-5</value>
-        </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_284937_needit_needit_task" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>state</element>
@@ -26,16 +7,16 @@
             <inactive>false</inactive>
             <label>Open</label>
             <language>en</language>
-            <name>x_284937_needit_needit</name>
-            <sequence>1</sequence>
+            <name>x_284937_needit_needit_task</name>
+            <sequence>0</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-11 22:08:31</sys_created_on>
+            <sys_created_on>2018-10-22 21:16:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2e33da5e4f812300e8a3a88ca310c7a4</sys_id>
+            <sys_id>05c0fa3d4fd12300e8a3a88ca310c781</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-11 22:08:31</sys_updated_on>
+            <sys_updated_on>2018-10-22 21:16:19</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -45,16 +26,16 @@
             <inactive>false</inactive>
             <label>Work in Progress</label>
             <language>en</language>
-            <name>x_284937_needit_needit</name>
-            <sequence>2</sequence>
+            <name>x_284937_needit_needit_task</name>
+            <sequence>1</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-11 22:08:31</sys_created_on>
+            <sys_created_on>2018-10-22 21:16:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a633da5e4f812300e8a3a88ca310c7a6</sys_id>
+            <sys_id>c1c0fa3d4fd12300e8a3a88ca310c783</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-11 22:08:31</sys_updated_on>
+            <sys_updated_on>2018-10-22 21:16:19</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -62,35 +43,35 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Solicitado</label>
+            <label>Closed Complete</label>
             <language>en</language>
-            <name>x_284937_needit_needit</name>
-            <sequence>3</sequence>
+            <name>x_284937_needit_needit_task</name>
+            <sequence>2</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-22 20:47:17</sys_created_on>
+            <sys_created_on>2018-10-22 21:16:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3f1a26394fd12300e8a3a88ca310c7ff</sys_id>
+            <sys_id>cdc0fa3d4fd12300e8a3a88ca310c784</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-22 20:47:17</sys_updated_on>
-            <value>14</value>
+            <sys_updated_on>2018-10-22 21:16:19</sys_updated_on>
+            <value>3</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>
-            <name>x_284937_needit_needit</name>
+            <name>x_284937_needit_needit_task</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-11 22:08:31</sys_created_on>
-            <sys_id>10b71e124fc12300e8a3a88ca310c726</sys_id>
+            <sys_created_on>2018-10-22 21:16:19</sys_created_on>
+            <sys_id>4dc0fa3d4fd12300e8a3a88ca310c781</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>state</sys_name>
             <sys_package display_value="needit" source="x_284937_needit">283182924f812300e8a3a88ca310c709</sys_package>
             <sys_policy/>
             <sys_scope display_value="needit">283182924f812300e8a3a88ca310c709</sys_scope>
-            <sys_update_name>sys_choice_x_284937_needit_needit_state</sys_update_name>
+            <sys_update_name>sys_choice_x_284937_needit_needit_task_state</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-11 22:08:31</sys_updated_on>
+            <sys_updated_on>2018-10-22 21:16:19</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>
