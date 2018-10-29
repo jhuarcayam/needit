@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Cantidad mínima de días requeridos entre el momento en que se crea una solicitud NeedIt y la fecha Cuándo se necesita</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_284937_needit.advancedNoticeDays</name>
+        <read_roles>x_284937_needit.admin</read_roles>
+        <suffix>advancedNoticeDays</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-29 19:40:41</sys_created_on>
+        <sys_id>c4cd16404fe12300e8a3a88ca310c77c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_284937_needit.advancedNoticeDays</sys_name>
+        <sys_package display_value="needit" source="x_284937_needit">283182924f812300e8a3a88ca310c709</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="needit">283182924f812300e8a3a88ca310c709</sys_scope>
+        <sys_update_name>sys_properties_c4cd16404fe12300e8a3a88ca310c77c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-29 19:57:04</sys_updated_on>
+        <type>string</type>
+        <value>2</value>
+        <write_roles>x_284937_needit.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=c4cd16404fe12300e8a3a88ca310c77c"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="NeedIt Properties">2c1c12004fe12300e8a3a88ca310c76a</category>
+        <order>100</order>
+        <property display_value="x_284937_needit.advancedNoticeDays" name="x_284937_needit.advancedNoticeDays">c4cd16404fe12300e8a3a88ca310c77c</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-29 19:42:18</sys_created_on>
+        <sys_id>506e1e404fe12300e8a3a88ca310c7a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_284937_needit.avanzadoNoticiasDías.Propiedades de NeedIt</sys_name>
+        <sys_package display_value="needit" source="x_284937_needit">283182924f812300e8a3a88ca310c709</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="needit">283182924f812300e8a3a88ca310c709</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_506e1e404fe12300e8a3a88ca310c7a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-29 19:42:18</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
